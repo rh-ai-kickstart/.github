@@ -2,18 +2,38 @@
 
 **Table of contents** 
 
+* [What is a kickstarter again?](#what-is-a-kickstarter-again)
+* [Are there requirements](#are-there-requirements)
 * [What if I don't have Red Hat AI yet?](#what-if-i-dont-have-red-hat-ai-yet)
 * [Will kickstarters run in my environment? Are these maintained? Are they products?](#will-kickstarters-run-in-my-environment-are-these-maintained-are-they-products)
-* [How do I ____](#how-do-i-______)
+* [How do I](#how-do-i-______)
   * [Get started](#get-started)
   * [Get help](#get-help)
   * [Contribute](#contribute)
-    * [Submit a new kickstarter](#submit-a-new-kickstarter)
-    * [Submit ideas for improvements](#submit-ideas-for-improvements)
-    * [Offer feedback](#offer-feedback)
 * [Now what?](#now-what)
 
-## What if I don't have Red Hat AI yet? 
+## Frequently asked questions :question: 
+
+### What is a kickstarter again? 
+
+Kickstarters are simple, ready-to-use AI examples using Red Hat platforms. 
+They are straightforward and focused example use cases - easy to launch, easy to
+get, and *ready to go!*
+
+### Are there requirements? 
+
+Each kickstarter comes with its own list of requirements. They're in the
+kickstarters README. As long as you have the dependencies, you're good to go! 
+
+We'll also use common tools to make things easier from time to time. Like: 
+* `oc`
+* `helm` 
+* `make` 
+* and many more
+
+You don't *need* them, but you'll probably *want* them. 
+
+### What if I don't have Red Hat AI yet? 
 
 No problem! Kickstarters are educational materials even when they aren't
 deployed! They include thorough descriptions, architectures and interactive
@@ -25,7 +45,7 @@ these contributions may find their way to our example catalog and can run in
 other environments. 
 
 
-## Will kickstarters run in my environment? Are these maintained? Are they products? 
+### Will kickstarters run in my environment? Are these maintained? Are they products? 
 
 Answers are *yes*, *yes* and *no*, respectively. 
 - New kickstarters must be proven before they can be included.
@@ -37,35 +57,35 @@ Answers are *yes*, *yes* and *no*, respectively.
 - kickstarters are not products and are not covered by Red Hat support 
 - Best effort community assistance may be available 
 
-## How do I ______? 
+### How do I ______? 
 
-### Get started 
+#### Get started 
 
 Each repository is a standalone kickstarter. Simply click through, read the
 README, and follow the installation instructions.
 
-### Get help 
+#### Get help 
 
 Have questions? Need help? We got you. Just open a GitHub issue in the relevant
 kickstarter repository! 
 
-### Contribute
+#### Contribute
 
-#### Submit a new kickstarter
+##### Submit a new kickstarter
 
 Anyone can contribute kickstarters! :smile: Instructions to follow.
 
-#### Submit ideas for improvements 
+##### Submit ideas for improvements 
 
 If you're using a kickstarter and want to see changes, create a GitHub
 issue with your request. We'll see if we can make it happen.
 
-#### Offer feedback
+##### Offer feedback
 
 All feedback is welcome. Specific and actionable feedback is preferred. Please
 create a GitHub issue directly in the kickstarter repository.
 
-## Now what? 
+### Now what? 
 
 What are you waiting for? :smile: It's kickstarter time! 
 
