@@ -1,7 +1,18 @@
 # Welcome to the general FAQ! :rocket: 
 
 **Table of contents** 
-[What if I don't have Red Hat AI yet?](##what-if-i-don't-have-red-hat-ai-yet?)
+
+* [What if I don't have Red Hat AI yet?](#what-if-i-dont-have-red-hat-ai-yet)
+* [Will kickstarters run in my environment? Are these maintained? Are they
+* products?](#will-kickstarters-run-in-my-environment-are-these-maintained-are-they-products)
+* [How do I ____](#how-do-i-______)
+  * [Get started](#get-started)
+  * [Get help](#get-help)
+  * [Contribute](#contribute)
+    * [Submit a new kickstarter](#submit-a-new-kickstarter)
+    * [Submit ideas for improvements](#submit-ideas-for-improvements)
+    * [Offer feedback](#offer-feedback)
+* [Now what?](#now-what)
 
 ## What if I don't have Red Hat AI yet? 
 
@@ -45,7 +56,7 @@ kickstarter repository!
 
 Anyone can contribute kickstarters! :smile: Instructions to follow.
 
-#### Submit ideas for future kickstarters 
+#### Submit ideas for improvements 
 
 If you're using a kickstarter and want to see changes, create a GitHub
 issue with your request. We'll see if we can make it happen.
