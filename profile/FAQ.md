@@ -1,3 +1,8 @@
+# Welcome to the general FAQ! :rocket: 
+
+**Table of contents** 
+[What if I don't have Red Hat AI yet?](##what-if-i-don't-have-red-hat-ai-yet?)
+
 ## What if I don't have Red Hat AI yet? 
 
 No problem! Kickstarters are educational materials even when they aren't
