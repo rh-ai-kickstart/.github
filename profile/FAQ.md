@@ -3,8 +3,7 @@
 **Table of contents** 
 
 * [What if I don't have Red Hat AI yet?](#what-if-i-dont-have-red-hat-ai-yet)
-* [Will kickstarters run in my environment? Are these maintained? Are they
-* products?](#will-kickstarters-run-in-my-environment-are-these-maintained-are-they-products)
+* [Will kickstarters run in my environment? Are these maintained? Are they products?](#will-kickstarters-run-in-my-environment-are-these-maintained-are-they-products)
 * [How do I ____](#how-do-i-______)
   * [Get started](#get-started)
   * [Get help](#get-help)
@@ -45,7 +44,7 @@ Answers are *yes*, *yes* and *no*, respectively.
 Each repository is a standalone kickstarter. Simply click through, read the
 README, and follow the installation instructions.
 
-### Get help :ticket:
+### Get help 
 
 Have questions? Need help? We got you. Just open a GitHub issue in the relevant
 kickstarter repository! 
