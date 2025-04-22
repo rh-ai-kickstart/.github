@@ -8,7 +8,7 @@ jump-start your journey and help you get the most out of Red Hat AI.
 
 Many of these examples come straight from Red Hat AI experts. After all, this is
 our day job! Contributions from Red Hat partners and the community are not just
-welcomes, they are *encouraged*!
+welcome, they are *encouraged*!
 
 
 ---
