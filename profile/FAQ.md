@@ -1,11 +1,11 @@
-# Welcome to the general FAQ! :rocket: 
+# Welcome to the general FAQ! :rocket:
 
 **Table of contents** 
 
-* [What is a kickstarter again?](#what-is-a-kickstarter-again)
+* [What is a kickstart again?](#what-is-a-kickstart-again)
 * [Are there requirements](#are-there-requirements)
 * [What if I don't have Red Hat AI yet?](#what-if-i-dont-have-red-hat-ai-yet)
-* [Will kickstarters run in my environment? Are these maintained? Are they products?](#will-kickstarters-run-in-my-environment-are-these-maintained-are-they-products)
+* [Will kickstarts run in my environment? Are these maintained? Are they products?](#will-kickstarts-run-in-my-environment-are-these-maintained-are-they-products)
 * [How do I](#how-do-i-______)
   * [Get started](#get-started)
   * [Get help](#get-help)
@@ -14,16 +14,16 @@
 
 ## Frequently asked questions :question: 
 
-### What is a kickstarter again? 
+### What is a kickstart again? 
 
-Kickstarters are simple, ready-to-use AI examples using Red Hat platforms. 
+Kickstarts are simple, ready-to-use AI examples using Red Hat platforms. 
 They are straightforward and focused example use cases - easy to launch, easy to
 get, and *ready to go!*
 
 ### Are there requirements? 
 
-Each kickstarter comes with its own list of requirements. They're in the
-kickstarters README. As long as you have the dependencies, you're good to go! 
+Each kickstart comes with its own list of requirements. They're in the
+kickstarts README. As long as you have the dependencies, you're good to go! 
 
 We'll also use common tools to make things easier from time to time. Like: 
 * `oc`
@@ -35,7 +35,7 @@ You don't *need* them, but you'll probably *want* them.
 
 ### What if I don't have Red Hat AI yet? 
 
-No problem! Kickstarters are educational materials even when they aren't
+No problem! Kickstarts are educational materials even when they aren't
 deployed! They include thorough descriptions, architectures and interactive
 demos whenever possible. 
 
@@ -45,47 +45,47 @@ these contributions may find their way to our example catalog and can run in
 other environments. 
 
 
-### Will kickstarters run in my environment? Are these maintained? Are they products? 
+### Will kickstarts run in my environment? Are these maintained? Are they products? 
 
 Answers are *yes*, *yes* and *no*, respectively. 
-- New kickstarters must be proven before they can be included.
+- New kickstarts must be proven before they can be included.
 - Your environment may differ from ours, but we'll clearly outline dependencies
   up front
-- AI kickstarters are maintained by their owner
+- AI kickstarts are maintained by their owner
 - Red Hat AI SMEs offer guidance as needed
-- AI kickstarters are not Red Hat products. They are examples.
-- kickstarters are not products and are not covered by Red Hat support 
+- AI kickstarts are not Red Hat products. They are examples.
+- kickstarts are not products and are not covered by Red Hat support 
 - Best effort community assistance may be available 
 
 ### How do I ______? 
 
 #### Get started 
 
-Each repository is a standalone kickstarter. Simply click through, read the
+Each repository is a standalone kickstart. Simply click through, read the
 README, and follow the installation instructions.
 
 #### Get help 
 
 Have questions? Need help? We got you. Just open a GitHub issue in the relevant
-kickstarter repository! 
+kickstart repository! 
 
 #### Contribute
 
-##### Submit a new kickstarter
+##### Submit a new kickstart
 
-Anyone can contribute kickstarters! :smile: Instructions to follow.
+Anyone can contribute kickstarts! :smile: Instructions to follow.
 
 ##### Submit ideas for improvements 
 
-If you're using a kickstarter and want to see changes, create a GitHub
+If you're using a kickstart and want to see changes, create a GitHub
 issue with your request. We'll see if we can make it happen.
 
 ##### Offer feedback
 
 All feedback is welcome. Specific and actionable feedback is preferred. Please
-create a GitHub issue directly in the kickstarter repository.
+create a GitHub issue directly in the kickstart repository.
 
 ### Now what? 
 
-What are you waiting for? :smile: It's kickstarter time! 
+What are you waiting for? :smile: It's kickstart time! 
 

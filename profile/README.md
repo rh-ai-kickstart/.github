@@ -1,6 +1,6 @@
-# Welcome to AI kickstarters :wave: 
+# Welcome to AI kickstart :wave: 
 
-**AI kickstarters** are straight-forward AI examples built for deployment on
+**AI kickstarts** are straight-forward AI examples built for deployment on
 your Red Hat platform. Think of them as ready-to-run, turnkey examples showing
 real use cases and innovations using open source software. They're here to
 jump-start your journey and help you get the most out of Red Hat AI.
