@@ -15,7 +15,7 @@ welcome, they are *encouraged*!
 # Important links
 
 **FAQ & getting started**:
-[FAQ.md](FAQ.md)
+[FAQ.md](https://github.com/rh-ai-kickstart/ai-kickstart-contrib/blob/main/general-faq.md)
 
-**Submit general feedback, issues or requests, and request membership**:
+**General feedback, issues, requests, and membership**:
 [https://github.com/rh-ai-kickstart/ai-kickstart-contrib/issues](https://github.com/rh-ai-kickstart/ai-kickstart-contrib/issues)
