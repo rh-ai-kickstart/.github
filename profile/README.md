@@ -14,7 +14,7 @@ welcome, they are *encouraged*!
 ---
 # Important links
 
-**FAQ**:
+**FAQ & getting started**:
 [FAQ.md](FAQ.md)
 
 **Submit general feedback, issues or requests, and request membership**:
