@@ -17,3 +17,5 @@ welcome, they are *encouraged*!
 **FAQ**:
 [FAQ.md](FAQ.md)
 
+**Submit general feedback, issues or requests, and request membership**:
+[https://github.com/rh-ai-kickstart/ai-kickstart-contrib/issues](https://github.com/rh-ai-kickstart/ai-kickstart-contrib/issues)
