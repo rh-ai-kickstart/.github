@@ -21,4 +21,4 @@ welcome, they are *encouraged*!
 [https://github.com/rh-ai-kickstart/ai-kickstart-contrib/issues](https://github.com/rh-ai-kickstart/ai-kickstart-contrib/issues)
 
 **Contributor's getting started guide**:
-[https://github.com/rh-ai-kickstart/ai-kickstart-contrib/blob/main/contribute-faq.md](https://github.com/rh-ai-kickstart/ai-kickstart-contrib/blob/main/contribute-faq.md)
+[https://github.com/rh-ai-kickstart/ai-kickstart-contrib/blob/main/CONTRIBUTING.md](https://github.com/rh-ai-kickstart/ai-kickstart-contrib/blob/main/CONTRIBUTING.md)
