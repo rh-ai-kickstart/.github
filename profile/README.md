@@ -1,8 +1,10 @@
 # Welcome to AI kickstart :wave: 
 
-**tl;dr** AI kickstarts are portable AI-centric demos easily deployable in 
-customer environments. They illustrate for the average user the art of the 
-possible on Red Hat AI. 
+**tl;dr** AI kickstarts are: 
+* portable, AI-centric demos 
+* easily deployable in customer environments. 
+
+They illustrate, for the average user, the art of the possible on Red Hat AI. 
 
 
 ---
