@@ -1,0 +1,59 @@
+name: Deployment
+
+on:
+  # Run on push to sometesting branch
+  push:
+    branches: [ experimental/default-render ]
+  # Run on manual trigger
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: 'Branch to build from'
+        required: true
+        default: 'experimental/default-render'
+        type: string
+  # Run on schedule (daily at 12:30 AM)
+  schedule:
+    - cron: '30 0 * * *'  # Runs at 12:30 AM every day
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        ref: ${{ github.event.inputs.branch || 'experimental/default-render' }}
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '18.x'
+
+    - name: Clean directories
+      run: |
+        rm -rf node_modules
+        rm -rf public/data/kickstarts.json
+        mkdir -p public/data
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Generate static data
+      run: node scripts/generate-static.js
+
+    - name: Build project
+      run: npm run build
+
+    - name: Deploy to GitHub Pages
+      uses: JamesIves/github-pages-deploy-action@v4
+      with:
+        folder: build
+        branch: gh-pages
+        clean: true
