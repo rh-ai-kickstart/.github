@@ -8,7 +8,6 @@
 >
 > They are illustrative of what can be built on top of Red Hat AI
 
----
 ## Important links
 
 **FAQ & getting started**:
@@ -21,7 +20,6 @@
 [https://github.com/rh-ai-kickstart/ai-kickstart-contrib/blob/main/CONTRIBUTING.md](https://github.com/rh-ai-kickstart/ai-kickstart-contrib/blob/main/CONTRIBUTING.md)
 
 
---- 
 ## ... a bit more detail
 
 **Red Hat AI kickstarts** are straight-forward AI examples built for deployment on
