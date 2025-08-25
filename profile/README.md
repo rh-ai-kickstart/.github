@@ -6,7 +6,7 @@
 > * portable, AI-centric demos 
 > * easily deployable in Red Hat AI environments
 >
-> They are illustrative of what can be built on top of Red Hat AI
+> They illustrate what can be built on top of Red Hat AI
 
 ## Important links
 
