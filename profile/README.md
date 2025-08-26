@@ -1,8 +1,8 @@
-# Welcome to the Red Hat AI kickstart :wave: 
+# Welcome to Red Hat AI quickstart :wave: 
 
 ## tl;dr
 
-> Red Hat AI kickstarts are: 
+> Red Hat AI quickstarts are: 
 > * portable, AI-centric demos 
 > * easily deployable in Red Hat AI environments
 >
@@ -11,18 +11,18 @@
 ## Important links
 
 **FAQ & getting started**:
-[https://github.com/rh-ai-kickstart/ai-kickstart-contrib/blob/main/general-faq.md](https://github.com/rh-ai-kickstart/ai-kickstart-contrib/blob/main/general-faq.md)
+[https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/general-faq.md](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/general-faq.md)
 
 **General feedback, issues, requests, and membership**:
-[https://github.com/rh-ai-kickstart/ai-kickstart-contrib/issues](https://github.com/rh-ai-kickstart/ai-kickstart-contrib/issues)
+[https://github.com/rh-ai-quickstart/ai-quickstart-contrib/issues](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/issues)
 
 **Contributor's getting started guide**:
-[https://github.com/rh-ai-kickstart/ai-kickstart-contrib/blob/main/CONTRIBUTING.md](https://github.com/rh-ai-kickstart/ai-kickstart-contrib/blob/main/CONTRIBUTING.md)
+[https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/CONTRIBUTING.md](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/CONTRIBUTING.md)
 
 
 ## ... a bit more detail
 
-**Red Hat AI kickstarts** are straight-forward AI examples built for deployment on
+**Red Hat AI quickstarts** are straight-forward AI examples built for deployment on
 your Red Hat AI platform. Think of them as ready-to-run, turnkey examples showing
 real use cases and innovations using open source software. They are here to
 jump-start your journey and help you get the most out of Red Hat AI.
