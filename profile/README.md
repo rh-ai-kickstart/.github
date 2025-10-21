@@ -13,7 +13,7 @@
 **FAQ & getting started**:
 [https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/general-faq.md](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/blob/main/general-faq.md)
 
-**General feedback, issues, requests, and membership**:
+**General feedback, issues, suggestions, and membership**:
 [https://github.com/rh-ai-quickstart/ai-quickstart-contrib/issues](https://github.com/rh-ai-quickstart/ai-quickstart-contrib/issues)
 
 **Contributor's getting started guide**:
